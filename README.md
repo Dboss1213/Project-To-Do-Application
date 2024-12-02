@@ -8,9 +8,6 @@ This is a simple Command Line Interface (CLI) To-Do List Application written in 
 - **Delete Task**: Remove a specific task by its number.
 - **Quit**: Exit the application.
 
-## How to Run
-1. Clone the repository:
-   ```bash
    GitHub - https://github.com/Dboss1213/Project-To-Do-Application.git
    
    
